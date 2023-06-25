@@ -1,4 +1,4 @@
-### HELLO there 👋 
+## HELLO there 👋 
 ### My name is RIGEL
 
 ---
