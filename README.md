@@ -1,8 +1,13 @@
-### Hello there 👋
+### HELLO there 👋 
+### My name is RIGEL
 
-<p align="left"> <img alt="Discord" src="https://discord.c99.nl/widget/theme-2/295522360872796161.png">
+---
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=8ca41v9oosk8g9faip5n4w4jm&count=2)
+<p align="center"> 
+<img alt="Discord" src="https://discord.c99.nl/widget/theme-2/295522360872796161.png"> </p>
+
+<p align="center">
+<img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=8ca41v9oosk8g9faip5n4w4jm&count=2"> </p>
 
 <!--
 **rigelyon/RIgelyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
