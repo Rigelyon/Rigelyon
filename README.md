@@ -1,5 +1,9 @@
 ### Hello there 👋
 
+<p align="center"> <img alt="Discord" src="https://discord.c99.nl/widget/theme-2/295522360872796161.png">
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=8ca41v9oosk8g9faip5n4w4jm&count=2)
+
 <!--
 **rigelyon/RIgelyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
