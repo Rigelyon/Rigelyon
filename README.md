@@ -6,7 +6,7 @@ My name is Rigel </h1>
 <img alt="Discord" src="https://discord.c99.nl/widget/theme-2/295522360872796161.png"> </p>
 
 <p align="center">
-<img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=8ca41v9oosk8g9faip5n4w4jm&count=2"> </p>
+<img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=8ca41v9oosk8g9faip5n4w4jm&count=5"> </p>
 
 
 <h2 align="center"> It ain't much, but its honest work </h2>
