@@ -1,9 +1,9 @@
 <h1 align="center"> HELLO there 👋<br> 
 My name is Rigel </h1>
 
-<p align="center">This is my discord, you can dm me here</p>
+<!-- <p align="center">This is my discord, you can dm me here</p>
 <p align="center"> 
-<img alt="Discord" src="https://discord.c99.nl/widget/theme-2/295522360872796161.png"> </p>
+<img alt="Discord" src="https://discord.c99.nl/widget/theme-2/295522360872796161.png"> </p> -->
 
 <p align="center">
 <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=8ca41v9oosk8g9faip5n4w4jm&count=5"> </p>
